@@ -1,0 +1,19 @@
+.ipynb_checkpoints/Wordcloud-checkpoint.ipynb
+output/Wordcloud.png
+output/2019 IN TIPPS_CheckVerbatim2.csv
+output/2019 IN TIPPS_CheckVerbatim.csv
+output/18 IN W3 TVS IQS_FinalVerbatim.csv
+output/18 IN W3 TVS IQS_CheckVerbatim.csv
+input/2019 IN TIPPS Verbatim Codelist - 15 Feb - Batch-3 (Final)_For Non IQS.xlsx
+input/18 IN W3 TVS IQS Verbatim Codelist - 27th Dec (To JDPAP)_Wave 3 Dec month_For read-in.xlsx
+.spyproject/config/workspace.ini
+.spyproject/config/vcs.ini
+.spyproject/config/encoding.ini
+.spyproject/config/defaults/defaults-workspace-0.2.0.ini
+.spyproject/config/defaults/defaults-vcs-0.2.0.ini
+.spyproject/config/defaults/defaults-encoding-0.2.0.ini
+.spyproject/config/defaults/defaults-codestyle-0.2.0.ini
+.spyproject/config/codestyle.ini
+Wordcloud.py
+TextFeatureExtraction.py
+HappyFish.jpg
